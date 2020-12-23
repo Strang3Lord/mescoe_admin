@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "289736555369",
+    "project_id": "timetable-91afe",
+    "storage_bucket": "timetable-91afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289736555369:android:d9c1c047dbd2822a475bf8",
+        "android_client_info": {
+          "package_name": "com.pina.mescoe_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289736555369-ga6lm98do3t4k4qt88gtoetsvlduqqvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQH8yih_zNaQfwaT8OPmeJbbZtHOCnWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289736555369-ga6lm98do3t4k4qt88gtoetsvlduqqvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289736555369:android:7c99a66fecca9245475bf8",
+        "android_client_info": {
+          "package_name": "com.timetable.admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289736555369-ga6lm98do3t4k4qt88gtoetsvlduqqvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQH8yih_zNaQfwaT8OPmeJbbZtHOCnWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289736555369-ga6lm98do3t4k4qt88gtoetsvlduqqvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
